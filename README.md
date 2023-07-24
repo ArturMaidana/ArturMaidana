@@ -1,4 +1,4 @@
-## Faaaala dev, Artur Aqui!
+## Olá Devs, Artur Aqui!
 
 <div>
   
