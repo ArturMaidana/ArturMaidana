@@ -4,7 +4,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturMaidana&show_icons=true&theme=radical&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturMaidana&show_icons=true&theme=merko&count_private=true)
 
 ## Tecnologias que utilizo
 
