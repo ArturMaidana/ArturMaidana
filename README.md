@@ -24,6 +24,6 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-<img align="left" height="250" alt="coding-time" src="code.gif">
+<img align="center" height="250" alt="coding-time" src="code.gif">
 
 ![Snake animation](https://github.com/ArturMaidana/ArturMaidana/blob/output/github-contribution-grid-snake.svg)
