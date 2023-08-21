@@ -5,7 +5,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/atlasspy)
 
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturMaidana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 ## Tecnologias que utilizo
 
