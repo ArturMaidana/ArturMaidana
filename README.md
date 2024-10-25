@@ -1,15 +1,15 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=hello!+👋;+my+name+is+Artur!;" />
 </h1>
 
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando como estagiario...
+  - 🔭 I am currently working with an intern...
   <br>
-- 🌱 Atualmente estou estudando Nodejs, Reactjs, Tyscript, Flutter...
+- 🌱 I'm currently studying Nodejs, Reactjs, Tyscript, Flutter...
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️Languages-Frameworks-Tools⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,html,css,vscode,github,figma,flutter,c,gitlab,linux,postgres,py" />
@@ -32,7 +32,7 @@
 </div>
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+your+attention!;" />
 </h1>
 
 
