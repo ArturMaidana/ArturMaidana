@@ -1,9 +1,9 @@
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;border-collapse:collapse;">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="60%" style="border:none;padding:0;">
       <img src="./assets/header.svg" width="100%" alt="header"/>
     </td>
-    <td valign="middle" align="center" width="40%">
+    <td valign="middle" align="center" width="40%" style="border:none;padding:0;">
       <img src="./assets/Mobile_App_Showcase_20260903005447.gif" width="280" alt="Mobile App Showcase"/>
     </td>
   </tr>
